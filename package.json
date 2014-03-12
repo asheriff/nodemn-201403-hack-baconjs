@@ -1,0 +1,13 @@
+{
+  "name": "nodemn-201403-hack-baconjs",
+  "version": "0.0.0",
+  "description": "NodeMN March Hacknight Meetup - Bacon.js",
+  "main": "lib/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sockjs": "~0.3.8",
+    "lodash": "~2.4.1",
+    "baconjs": "~0.7.6"
+  }
+}
